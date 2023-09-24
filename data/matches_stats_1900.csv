@@ -1,0 +1,863 @@
+﻿team_a,team_b,draw,loser,winner,total,winning_perc,losing_perc,draw_perc,team_a_txt,team_b_txt
+Argentina,Australia,1,1,5,7,71,14,14,Argentina,Australia
+Argentina,Belgium,0,1,3,4,75,25,0,Argentina,Belgium
+Argentina,Brazil,26,43,39,108,36,40,24,Argentina,Brazil
+Argentina,Cameroon,1,1,0,2,0,50,50,Argentina,Cameroon
+Argentina,Canada,0,0,1,1,100,0,0,Argentina,Canada
+Argentina,Costa Rica,2,0,4,6,67,0,33,Argentina,Costa_Rica
+Argentina,Croatia,1,2,2,5,40,40,20,Argentina,Croatia
+Argentina,Denmark,1,1,0,2,0,50,50,Argentina,Denmark
+Argentina,Ecuador,11,5,21,37,57,14,30,Argentina,Ecuador
+Argentina,England,6,6,3,15,20,40,40,Argentina,England
+Argentina,France,3,3,6,12,50,25,25,Argentina,France
+Argentina,Germany,6,7,10,23,43,30,26,Argentina,Germany
+Argentina,Ghana,0,0,1,1,100,0,0,Argentina,Ghana
+Argentina,Iran,1,0,1,2,50,0,50,Argentina,Iran
+Argentina,Japan,0,1,6,7,86,14,0,Argentina,Japan
+Argentina,Mexico,12,4,15,31,48,13,39,Argentina,Mexico
+Argentina,Morocco,0,0,3,3,100,0,0,Argentina,Morocco
+Argentina,Netherlands,4,4,1,9,11,44,44,Argentina,Netherlands
+Argentina,Poland,2,3,6,11,55,27,18,Argentina,Poland
+Argentina,Portugal,1,2,5,8,62,25,12,Argentina,Portugal
+Argentina,Qatar,0,0,2,2,100,0,0,Argentina,Qatar
+Argentina,Saudi Arabia,2,0,2,4,50,0,50,Argentina,Saudi_Arabia
+Argentina,Serbia,0,1,3,4,75,25,0,Argentina,Serbia
+Argentina,South Korea,0,0,3,3,100,0,0,Argentina,South_Korea
+Argentina,Spain,2,6,6,14,43,43,14,Argentina,Spain
+Argentina,Switzerland,2,0,5,7,71,0,29,Argentina,Switzerland
+Argentina,Tunisia,0,0,1,1,100,0,0,Argentina,Tunisia
+Argentina,United States,2,2,6,10,60,20,20,Argentina,United_States
+Argentina,Uruguay,43,52,84,179,47,29,24,Argentina,Uruguay
+Argentina,Wales,1,0,1,2,50,0,50,Argentina,Wales
+Australia,Argentina,1,5,1,7,14,71,14,Australia,Argentina
+Australia,Belgium,0,1,0,1,0,100,0,Australia,Belgium
+Australia,Brazil,1,6,1,8,12,75,12,Australia,Brazil
+Australia,Cameroon,1,0,0,1,0,0,100,Australia,Cameroon
+Australia,Canada,1,3,5,9,56,33,11,Australia,Canada
+Australia,Costa Rica,0,0,1,1,100,0,0,Australia,Costa_Rica
+Australia,Croatia,2,2,2,6,33,33,33,Australia,Croatia
+Australia,Denmark,1,2,1,4,25,50,25,Australia,Denmark
+Australia,Ecuador,0,1,0,1,0,100,0,Australia,Ecuador
+Australia,England,2,4,1,7,14,57,29,Australia,England
+Australia,France,1,3,1,5,20,60,20,Australia,France
+Australia,Germany,1,4,1,6,17,67,17,Australia,Germany
+Australia,Ghana,2,1,4,7,57,14,29,Australia,Ghana
+Australia,Iran,2,3,2,7,29,43,29,Australia,Iran
+Australia,Japan,9,11,6,26,23,42,35,Australia,Japan
+Australia,Mexico,2,0,2,4,50,0,50,Australia,Mexico
+Australia,Morocco,0,0,1,1,100,0,0,Australia,Morocco
+Australia,Netherlands,2,1,1,4,25,25,50,Australia,Netherlands
+Australia,Poland,0,0,1,1,100,0,0,Australia,Poland
+Australia,Qatar,1,1,3,5,60,20,20,Australia,Qatar
+Australia,Saudi Arabia,3,2,5,10,50,20,30,Australia,Saudi_Arabia
+Australia,Serbia,1,0,1,2,50,0,50,Australia,Serbia
+Australia,South Korea,11,8,9,28,32,29,39,Australia,South_Korea
+Australia,Spain,0,1,0,1,0,100,0,Australia,Spain
+Australia,Switzerland,1,0,0,1,0,0,100,Australia,Switzerland
+Australia,Tunisia,0,1,0,1,0,100,0,Australia,Tunisia
+Australia,United States,1,1,1,3,33,33,33,Australia,United_States
+Australia,Uruguay,0,4,3,7,43,57,0,Australia,Uruguay
+Australia,Wales,0,0,1,1,100,0,0,Australia,Wales
+Belgium,Argentina,0,3,1,4,25,75,0,Belgium,Argentina
+Belgium,Australia,0,0,1,1,100,0,0,Belgium,Australia
+Belgium,Brazil,0,3,2,5,40,60,0,Belgium,Brazil
+Belgium,Canada,0,0,1,1,100,0,0,Belgium,Canada
+Belgium,Costa Rica,0,0,2,2,100,0,0,Belgium,Costa_Rica
+Belgium,Croatia,2,3,3,8,38,38,25,Belgium,Croatia
+Belgium,Denmark,3,6,7,16,44,38,19,Belgium,Denmark
+Belgium,England,5,17,4,26,15,65,19,Belgium,England
+Belgium,France,19,26,30,75,40,35,25,Belgium,France
+Belgium,Germany,1,20,4,25,16,80,4,Belgium,Germany
+Belgium,Japan,2,2,2,6,33,33,33,Belgium,Japan
+Belgium,Mexico,2,3,2,7,29,43,29,Belgium,Mexico
+Belgium,Morocco,0,1,2,3,67,33,0,Belgium,Morocco
+Belgium,Netherlands,31,55,40,126,32,44,25,Belgium,Netherlands
+Belgium,Poland,6,7,8,21,38,33,29,Belgium,Poland
+Belgium,Portugal,7,6,6,19,32,32,37,Belgium,Portugal
+Belgium,Qatar,0,0,1,1,100,0,0,Belgium,Qatar
+Belgium,Saudi Arabia,0,1,2,3,67,33,0,Belgium,Saudi_Arabia
+Belgium,Serbia,1,2,3,6,50,33,17,Belgium,Serbia
+Belgium,South Korea,1,0,3,4,75,0,25,Belgium,South_Korea
+Belgium,Spain,6,11,4,21,19,52,29,Belgium,Spain
+Belgium,Switzerland,6,9,15,30,50,30,20,Belgium,Switzerland
+Belgium,Tunisia,1,1,2,4,50,25,25,Belgium,Tunisia
+Belgium,United States,0,1,5,6,83,17,0,Belgium,United_States
+Belgium,Uruguay,0,0,2,2,100,0,0,Belgium,Uruguay
+Belgium,Wales,5,5,6,16,38,31,31,Belgium,Wales
+Brazil,Argentina,26,39,43,108,40,36,24,Brazil,Argentina
+Brazil,Australia,1,1,6,8,75,12,12,Brazil,Australia
+Brazil,Belgium,0,2,3,5,60,40,0,Brazil,Belgium
+Brazil,Cameroon,0,1,5,6,83,17,0,Brazil,Cameroon
+Brazil,Canada,2,0,2,4,50,0,50,Brazil,Canada
+Brazil,Costa Rica,0,1,10,11,91,9,0,Brazil,Costa_Rica
+Brazil,Croatia,1,0,3,4,75,0,25,Brazil,Croatia
+Brazil,Denmark,0,1,3,4,75,25,0,Brazil,Denmark
+Brazil,Ecuador,6,2,26,34,76,6,18,Brazil,Ecuador
+Brazil,England,11,4,11,26,42,15,42,Brazil,England
+Brazil,France,4,5,7,16,44,31,25,Brazil,France
+Brazil,Germany,5,5,13,23,57,22,22,Brazil,Germany
+Brazil,Ghana,0,0,5,5,100,0,0,Brazil,Ghana
+Brazil,Iran,0,0,1,1,100,0,0,Brazil,Iran
+Brazil,Japan,2,0,11,13,85,0,15,Brazil,Japan
+Brazil,Mexico,7,10,24,41,59,24,17,Brazil,Mexico
+Brazil,Morocco,0,0,2,2,100,0,0,Brazil,Morocco
+Brazil,Netherlands,5,4,3,12,25,33,42,Brazil,Netherlands
+Brazil,Poland,2,1,9,12,75,8,17,Brazil,Poland
+Brazil,Portugal,3,4,14,21,67,19,14,Brazil,Portugal
+Brazil,Qatar,0,0,1,1,100,0,0,Brazil,Qatar
+Brazil,Saudi Arabia,0,0,5,5,100,0,0,Brazil,Saudi_Arabia
+Brazil,Senegal,1,0,0,1,0,0,100,Brazil,Senegal
+Brazil,Serbia,1,0,4,5,80,0,20,Brazil,Serbia
+Brazil,South Korea,0,1,6,7,86,14,0,Brazil,South_Korea
+Brazil,Spain,2,2,5,9,56,22,22,Brazil,Spain
+Brazil,Switzerland,4,2,3,9,33,22,44,Brazil,Switzerland
+Brazil,Tunisia,0,0,2,2,100,0,0,Brazil,Tunisia
+Brazil,United States,0,1,17,18,94,6,0,Brazil,United_States
+Brazil,Uruguay,19,20,37,76,49,26,25,Brazil,Uruguay
+Brazil,Wales,1,1,8,10,80,10,10,Brazil,Wales
+Cameroon,Argentina,1,0,1,2,50,0,50,Cameroon,Argentina
+Cameroon,Australia,1,0,0,1,0,0,100,Cameroon,Australia
+Cameroon,Brazil,0,5,1,6,17,83,0,Cameroon,Brazil
+Cameroon,Canada,0,0,1,1,100,0,0,Cameroon,Canada
+Cameroon,Costa Rica,0,1,0,1,0,100,0,Cameroon,Costa_Rica
+Cameroon,Croatia,0,1,0,1,0,100,0,Cameroon,Croatia
+Cameroon,Denmark,0,2,1,3,33,67,0,Cameroon,Denmark
+Cameroon,England,1,3,0,4,0,75,25,Cameroon,England
+Cameroon,France,1,2,0,3,0,67,33,Cameroon,France
+Cameroon,Germany,1,3,0,4,0,75,25,Cameroon,Germany
+Cameroon,Ghana,4,2,2,8,25,25,50,Cameroon,Ghana
+Cameroon,Iran,2,0,0,2,0,0,100,Cameroon,Iran
+Cameroon,Japan,2,3,0,5,0,60,40,Cameroon,Japan
+Cameroon,Mexico,0,2,0,2,0,100,0,Cameroon,Mexico
+Cameroon,Morocco,4,1,6,11,55,9,36,Cameroon,Morocco
+Cameroon,Netherlands,1,2,0,3,0,67,33,Cameroon,Netherlands
+Cameroon,Poland,2,0,1,3,33,0,67,Cameroon,Poland
+Cameroon,Portugal,0,2,0,2,0,100,0,Cameroon,Portugal
+Cameroon,Saudi Arabia,1,2,2,5,40,40,20,Cameroon,Saudi_Arabia
+Cameroon,Senegal,5,5,3,13,23,38,38,Cameroon,Senegal
+Cameroon,Serbia,0,1,0,1,0,100,0,Cameroon,Serbia
+Cameroon,South Korea,2,3,0,5,0,60,40,Cameroon,South_Korea
+Cameroon,Tunisia,7,3,9,19,47,16,37,Cameroon,Tunisia
+Cameroon,United States,1,0,0,1,0,0,100,Cameroon,United_States
+Canada,Argentina,0,1,0,1,0,100,0,Canada,Argentina
+Canada,Australia,1,5,3,9,33,56,11,Canada,Australia
+Canada,Belgium,0,1,0,1,0,100,0,Canada,Belgium
+Canada,Brazil,2,2,0,4,0,50,50,Canada,Brazil
+Canada,Cameroon,0,1,0,1,0,100,0,Canada,Cameroon
+Canada,Costa Rica,9,9,6,24,25,38,38,Canada,Costa_Rica
+Canada,Denmark,0,1,0,1,0,100,0,Canada,Denmark
+Canada,Ecuador,1,2,0,3,0,67,33,Canada,Ecuador
+Canada,England,0,1,0,1,0,100,0,Canada,England
+Canada,France,0,1,0,1,0,100,0,Canada,France
+Canada,Germany,0,2,0,2,0,100,0,Canada,Germany
+Canada,Ghana,0,0,1,1,100,0,0,Canada,Ghana
+Canada,Iran,0,2,1,3,33,67,0,Canada,Iran
+Canada,Japan,0,2,0,2,0,100,0,Canada,Japan
+Canada,Mexico,8,21,4,33,12,64,24,Canada,Mexico
+Canada,Morocco,1,2,0,3,0,67,33,Canada,Morocco
+Canada,Netherlands,0,1,0,1,0,100,0,Canada,Netherlands
+Canada,Poland,0,6,0,6,0,100,0,Canada,Poland
+Canada,Portugal,1,1,0,2,0,50,50,Canada,Portugal
+Canada,Qatar,0,0,1,1,100,0,0,Canada,Qatar
+Canada,Saudi Arabia,0,1,0,1,0,100,0,Canada,Saudi_Arabia
+Canada,South Korea,1,2,2,5,40,40,20,Canada,South_Korea
+Canada,Spain,0,2,0,2,0,100,0,Canada,Spain
+Canada,Switzerland,0,0,1,1,100,0,0,Canada,Switzerland
+Canada,Tunisia,0,1,0,1,0,100,0,Canada,Tunisia
+Canada,United States,11,15,10,36,28,42,31,Canada,United_States
+Canada,Uruguay,0,2,0,2,0,100,0,Canada,Uruguay
+Canada,Wales,0,2,1,3,33,67,0,Canada,Wales
+Costa Rica,Argentina,2,4,0,6,0,67,33,Costa_Rica,Argentina
+Costa Rica,Australia,0,1,0,1,0,100,0,Costa_Rica,Australia
+Costa Rica,Belgium,0,2,0,2,0,100,0,Costa_Rica,Belgium
+Costa Rica,Brazil,0,10,1,11,9,91,0,Costa_Rica,Brazil
+Costa Rica,Cameroon,0,0,1,1,100,0,0,Costa_Rica,Cameroon
+Costa Rica,Canada,9,6,9,24,38,25,38,Costa_Rica,Canada
+Costa Rica,Ecuador,5,5,1,11,9,45,45,Costa_Rica,Ecuador
+Costa Rica,England,1,1,0,2,0,50,50,Costa_Rica,England
+Costa Rica,France,0,2,0,2,0,100,0,Costa_Rica,France
+Costa Rica,Germany,0,1,0,1,0,100,0,Costa_Rica,Germany
+Costa Rica,Iran,1,1,0,2,0,50,50,Costa_Rica,Iran
+Costa Rica,Japan,1,3,0,4,0,75,25,Costa_Rica,Japan
+Costa Rica,Mexico,19,28,6,53,11,53,36,Costa_Rica,Mexico
+Costa Rica,Netherlands,1,0,0,1,0,0,100,Costa_Rica,Netherlands
+Costa Rica,Poland,0,2,0,2,0,100,0,Costa_Rica,Poland
+Costa Rica,Qatar,1,0,0,1,0,0,100,Costa_Rica,Qatar
+Costa Rica,Saudi Arabia,0,1,3,4,75,25,0,Costa_Rica,Saudi_Arabia
+Costa Rica,Serbia,0,1,0,1,0,100,0,Costa_Rica,Serbia
+Costa Rica,South Korea,3,4,3,10,30,40,30,Costa_Rica,South_Korea
+Costa Rica,Spain,1,2,0,3,0,67,33,Costa_Rica,Spain
+Costa Rica,Switzerland,1,1,1,3,33,33,33,Costa_Rica,Switzerland
+Costa Rica,Tunisia,0,1,0,1,0,100,0,Costa_Rica,Tunisia
+Costa Rica,United States,6,19,16,41,39,46,15,Costa_Rica,United_States
+Costa Rica,Uruguay,3,6,1,10,10,60,30,Costa_Rica,Uruguay
+Costa Rica,Wales,0,1,1,2,50,50,0,Costa_Rica,Wales
+Croatia,Argentina,1,2,2,5,40,40,20,Croatia,Argentina
+Croatia,Australia,2,2,2,6,33,33,33,Croatia,Australia
+Croatia,Belgium,2,3,3,8,38,38,25,Croatia,Belgium
+Croatia,Brazil,1,3,0,4,0,75,25,Croatia,Brazil
+Croatia,Cameroon,0,0,1,1,100,0,0,Croatia,Cameroon
+Croatia,Denmark,2,2,3,7,43,29,29,Croatia,Denmark
+Croatia,Ecuador,0,1,0,1,0,100,0,Croatia,Ecuador
+Croatia,England,2,6,3,11,27,55,18,Croatia,England
+Croatia,France,3,6,1,10,10,60,30,Croatia,France
+Croatia,Germany,1,5,2,8,25,62,12,Croatia,Germany
+Croatia,Iran,1,0,1,2,50,0,50,Croatia,Iran
+Croatia,Japan,1,1,1,3,33,33,33,Croatia,Japan
+Croatia,Mexico,0,2,4,6,67,33,0,Croatia,Mexico
+Croatia,Morocco,1,0,0,1,0,0,100,Croatia,Morocco
+Croatia,Netherlands,0,1,1,2,50,50,0,Croatia,Netherlands
+Croatia,Poland,1,1,3,5,60,20,20,Croatia,Poland
+Croatia,Portugal,1,6,0,7,0,86,14,Croatia,Portugal
+Croatia,Qatar,0,0,1,1,100,0,0,Croatia,Qatar
+Croatia,Senegal,0,0,1,1,100,0,0,Croatia,Senegal
+Croatia,Serbia,3,0,2,5,40,0,60,Croatia,Serbia
+Croatia,South Korea,2,2,3,7,43,29,29,Croatia,South_Korea
+Croatia,Spain,1,5,3,9,33,56,11,Croatia,Spain
+Croatia,Switzerland,2,2,3,7,43,29,29,Croatia,Switzerland
+Croatia,Tunisia,0,1,0,1,0,100,0,Croatia,Tunisia
+Croatia,United States,0,0,1,1,100,0,0,Croatia,United_States
+Croatia,Wales,2,0,4,6,67,0,33,Croatia,Wales
+Denmark,Argentina,1,0,1,2,50,0,50,Denmark,Argentina
+Denmark,Australia,1,1,2,4,50,25,25,Denmark,Australia
+Denmark,Belgium,3,7,6,16,38,44,19,Denmark,Belgium
+Denmark,Brazil,0,3,1,4,25,75,0,Denmark,Brazil
+Denmark,Cameroon,0,1,2,3,67,33,0,Denmark,Cameroon
+Denmark,Canada,0,0,1,1,100,0,0,Denmark,Canada
+Denmark,Croatia,2,3,2,7,29,43,29,Denmark,Croatia
+Denmark,England,5,13,4,22,18,59,23,Denmark,England
+Denmark,France,2,8,5,15,33,53,13,Denmark,France
+Denmark,Germany,5,15,8,28,29,54,18,Denmark,Germany
+Denmark,Ghana,0,0,1,1,100,0,0,Denmark,Ghana
+Denmark,Iran,1,0,0,1,0,0,100,Denmark,Iran
+Denmark,Japan,0,1,1,2,50,50,0,Denmark,Japan
+Denmark,Mexico,2,1,2,5,40,20,40,Denmark,Mexico
+Denmark,Netherlands,10,13,8,31,26,42,32,Denmark,Netherlands
+Denmark,Poland,1,8,10,19,53,42,5,Denmark,Poland
+Denmark,Portugal,2,10,3,15,20,67,13,Denmark,Portugal
+Denmark,Saudi Arabia,0,0,3,3,100,0,0,Denmark,Saudi_Arabia
+Denmark,Senegal,1,0,2,3,67,0,33,Denmark,Senegal
+Denmark,Serbia,0,0,3,3,100,0,0,Denmark,Serbia
+Denmark,South Korea,1,0,0,1,0,0,100,Denmark,South_Korea
+Denmark,Spain,3,11,2,16,12,69,19,Denmark,Spain
+Denmark,Switzerland,6,2,4,12,33,17,50,Denmark,Switzerland
+Denmark,Tunisia,0,0,1,1,100,0,0,Denmark,Tunisia
+Denmark,United States,1,0,2,3,67,0,33,Denmark,United_States
+Denmark,Uruguay,0,0,2,2,100,0,0,Denmark,Uruguay
+Denmark,Wales,0,4,7,11,64,36,0,Denmark,Wales
+Ecuador,Argentina,11,21,5,37,14,57,30,Ecuador,Argentina
+Ecuador,Australia,0,0,1,1,100,0,0,Ecuador,Australia
+Ecuador,Brazil,6,26,2,34,6,76,18,Ecuador,Brazil
+Ecuador,Canada,1,0,2,3,67,0,33,Ecuador,Canada
+Ecuador,Costa Rica,5,1,5,11,45,9,45,Ecuador,Costa_Rica
+Ecuador,Croatia,0,0,1,1,100,0,0,Ecuador,Croatia
+Ecuador,England,1,2,0,3,0,67,33,Ecuador,England
+Ecuador,France,1,1,0,2,0,50,50,Ecuador,France
+Ecuador,Germany,0,2,0,2,0,100,0,Ecuador,Germany
+Ecuador,Iran,2,0,1,3,33,0,67,Ecuador,Iran
+Ecuador,Japan,2,2,0,4,0,50,50,Ecuador,Japan
+Ecuador,Mexico,6,14,4,24,17,58,25,Ecuador,Mexico
+Ecuador,Netherlands,1,1,0,2,0,50,50,Ecuador,Netherlands
+Ecuador,Poland,1,1,1,3,33,33,33,Ecuador,Poland
+Ecuador,Portugal,0,1,1,2,50,50,0,Ecuador,Portugal
+Ecuador,Qatar,1,1,1,3,33,33,33,Ecuador,Qatar
+Ecuador,Saudi Arabia,1,0,0,1,0,0,100,Ecuador,Saudi_Arabia
+Ecuador,Senegal,0,2,0,2,0,100,0,Ecuador,Senegal
+Ecuador,Serbia,0,0,1,1,100,0,0,Ecuador,Serbia
+Ecuador,South Korea,0,1,1,2,50,50,0,Ecuador,South_Korea
+Ecuador,Spain,0,2,0,2,0,100,0,Ecuador,Spain
+Ecuador,Switzerland,0,1,0,1,0,100,0,Ecuador,Switzerland
+Ecuador,United States,4,4,5,13,38,31,31,Ecuador,United_States
+Ecuador,Uruguay,10,31,7,48,15,65,21,Ecuador,Uruguay
+England,Argentina,6,3,6,15,40,20,40,England,Argentina
+England,Australia,2,1,4,7,57,14,29,England,Australia
+England,Belgium,5,4,17,26,65,15,19,England,Belgium
+England,Brazil,11,11,4,26,15,42,42,England,Brazil
+England,Cameroon,1,0,3,4,75,0,25,England,Cameroon
+England,Canada,0,0,1,1,100,0,0,England,Canada
+England,Costa Rica,1,0,1,2,50,0,50,England,Costa_Rica
+England,Croatia,2,3,6,11,55,27,18,England,Croatia
+England,Denmark,5,4,13,22,59,18,23,England,Denmark
+England,Ecuador,1,0,2,3,67,0,33,England,Ecuador
+England,France,6,10,17,33,52,30,18,England,France
+England,Germany,7,13,14,34,41,38,21,England,Germany
+England,Ghana,1,0,0,1,0,0,100,England,Ghana
+England,Japan,1,0,2,3,67,0,33,England,Japan
+England,Mexico,1,2,7,10,70,20,10,England,Mexico
+England,Morocco,1,0,1,2,50,0,50,England,Morocco
+England,Netherlands,9,7,6,22,27,32,41,England,Netherlands
+England,Poland,8,1,12,21,57,5,38,England,Poland
+England,Portugal,10,3,10,23,43,13,43,England,Portugal
+England,Saudi Arabia,2,0,0,2,0,0,100,England,Saudi_Arabia
+England,Serbia,0,0,1,1,100,0,0,England,Serbia
+England,South Korea,1,0,0,1,0,0,100,England,South_Korea
+England,Spain,4,10,13,27,48,37,15,England,Spain
+England,Switzerland,6,4,19,29,66,14,21,England,Switzerland
+England,Tunisia,1,0,2,3,67,0,33,England,Tunisia
+England,United States,1,2,8,11,73,18,9,England,United_States
+England,Uruguay,3,5,3,11,27,45,27,England,Uruguay
+England,Wales,19,13,51,83,61,16,23,England,Wales
+France,Argentina,3,6,3,12,25,50,25,France,Argentina
+France,Australia,1,1,3,5,60,20,20,France,Australia
+France,Belgium,19,30,26,75,35,40,25,France,Belgium
+France,Brazil,4,7,5,16,31,44,25,France,Brazil
+France,Cameroon,1,0,2,3,67,0,33,France,Cameroon
+France,Canada,0,0,1,1,100,0,0,France,Canada
+France,Costa Rica,0,0,2,2,100,0,0,France,Costa_Rica
+France,Croatia,3,1,6,10,60,10,30,France,Croatia
+France,Denmark,2,5,8,15,53,33,13,France,Denmark
+France,Ecuador,1,0,1,2,50,0,50,France,Ecuador
+France,England,6,17,10,33,30,52,18,France,England
+France,Germany,8,9,15,32,47,28,25,France,Germany
+France,Iran,0,0,1,1,100,0,0,France,Iran
+France,Japan,1,1,4,6,67,17,17,France,Japan
+France,Mexico,1,1,5,7,71,14,14,France,Mexico
+France,Morocco,2,0,3,5,60,0,40,France,Morocco
+France,Netherlands,4,11,13,28,46,39,14,France,Netherlands
+France,Poland,5,3,8,16,50,19,31,France,Poland
+France,Portugal,3,6,17,26,65,23,12,France,Portugal
+France,Saudi Arabia,0,0,1,1,100,0,0,France,Saudi_Arabia
+France,Senegal,0,1,0,1,0,100,0,France,Senegal
+France,Serbia,2,0,4,6,67,0,33,France,Serbia
+France,South Korea,1,0,2,3,67,0,33,France,South_Korea
+France,Spain,7,16,13,36,36,44,19,France,Spain
+France,Switzerland,11,12,16,39,41,31,28,France,Switzerland
+France,Tunisia,2,0,2,4,50,0,50,France,Tunisia
+France,United States,1,0,3,4,75,0,25,France,United_States
+France,Uruguay,4,2,3,9,33,22,44,France,Uruguay
+France,Wales,1,1,4,6,67,17,17,France,Wales
+Germany,Argentina,6,10,7,23,30,43,26,Germany,Argentina
+Germany,Australia,1,1,4,6,67,17,17,Germany,Australia
+Germany,Belgium,1,4,20,25,80,16,4,Germany,Belgium
+Germany,Brazil,5,13,5,23,22,57,22,Germany,Brazil
+Germany,Cameroon,1,0,3,4,75,0,25,Germany,Cameroon
+Germany,Canada,0,0,2,2,100,0,0,Germany,Canada
+Germany,Costa Rica,0,0,1,1,100,0,0,Germany,Costa_Rica
+Germany,Croatia,1,2,5,8,62,25,12,Germany,Croatia
+Germany,Denmark,5,8,15,28,54,29,18,Germany,Denmark
+Germany,Ecuador,0,0,2,2,100,0,0,Germany,Ecuador
+Germany,England,7,14,13,34,38,41,21,Germany,England
+Germany,France,8,15,9,32,28,47,25,Germany,France
+Germany,Ghana,1,0,2,3,67,0,33,Germany,Ghana
+Germany,Iran,0,0,2,2,100,0,0,Germany,Iran
+Germany,Japan,1,0,1,2,50,0,50,Germany,Japan
+Germany,Mexico,5,2,5,12,42,17,42,Germany,Mexico
+Germany,Morocco,0,0,4,4,100,0,0,Germany,Morocco
+Germany,Netherlands,17,12,16,45,36,27,38,Germany,Netherlands
+Germany,Poland,7,1,13,21,62,5,33,Germany,Poland
+Germany,Portugal,5,3,11,19,58,16,26,Germany,Portugal
+Germany,Saudi Arabia,0,0,3,3,100,0,0,Germany,Saudi_Arabia
+Germany,Serbia,2,1,2,5,40,20,40,Germany,Serbia
+Germany,South Korea,0,2,2,4,50,50,0,Germany,South_Korea
+Germany,Spain,8,8,9,25,36,32,32,Germany,Spain
+Germany,Switzerland,8,9,35,52,67,17,15,Germany,Switzerland
+Germany,Tunisia,2,0,1,3,33,0,67,Germany,Tunisia
+Germany,United States,0,4,7,11,64,36,0,Germany,United_States
+Germany,Uruguay,2,0,8,10,80,0,20,Germany,Uruguay
+Germany,Wales,6,2,9,17,53,12,35,Germany,Wales
+Ghana,Argentina,0,1,0,1,0,100,0,Ghana,Argentina
+Ghana,Australia,2,4,1,7,14,57,29,Ghana,Australia
+Ghana,Brazil,0,5,0,5,0,100,0,Ghana,Brazil
+Ghana,Cameroon,4,2,2,8,25,25,50,Ghana,Cameroon
+Ghana,Canada,0,1,0,1,0,100,0,Ghana,Canada
+Ghana,Denmark,0,1,0,1,0,100,0,Ghana,Denmark
+Ghana,England,1,0,0,1,0,0,100,Ghana,England
+Ghana,Germany,1,2,0,3,0,67,33,Ghana,Germany
+Ghana,Iran,0,2,0,2,0,100,0,Ghana,Iran
+Ghana,Japan,0,5,2,7,29,71,0,Ghana,Japan
+Ghana,Mexico,0,2,0,2,0,100,0,Ghana,Mexico
+Ghana,Morocco,3,5,2,10,20,50,30,Ghana,Morocco
+Ghana,Netherlands,1,2,0,3,0,67,33,Ghana,Netherlands
+Ghana,Portugal,0,1,0,1,0,100,0,Ghana,Portugal
+Ghana,Qatar,0,0,1,1,100,0,0,Ghana,Qatar
+Ghana,Saudi Arabia,2,1,2,5,40,20,40,Ghana,Saudi_Arabia
+Ghana,Senegal,5,4,3,12,25,33,42,Ghana,Senegal
+Ghana,Serbia,0,1,1,2,50,50,0,Ghana,Serbia
+Ghana,South Korea,0,3,3,6,50,50,0,Ghana,South_Korea
+Ghana,Tunisia,5,3,9,17,53,18,29,Ghana,Tunisia
+Ghana,United States,0,2,2,4,50,50,0,Ghana,United_States
+Ghana,Uruguay,1,0,0,1,0,0,100,Ghana,Uruguay
+Iran,Argentina,1,1,0,2,0,50,50,Iran,Argentina
+Iran,Australia,2,2,3,7,43,29,29,Iran,Australia
+Iran,Brazil,0,1,0,1,0,100,0,Iran,Brazil
+Iran,Cameroon,2,0,0,2,0,0,100,Iran,Cameroon
+Iran,Canada,0,1,2,3,67,33,0,Iran,Canada
+Iran,Costa Rica,1,0,1,2,50,0,50,Iran,Costa_Rica
+Iran,Croatia,1,1,0,2,0,50,50,Iran,Croatia
+Iran,Denmark,1,0,0,1,0,0,100,Iran,Denmark
+Iran,Ecuador,2,1,0,3,0,33,67,Iran,Ecuador
+Iran,France,0,1,0,1,0,100,0,Iran,France
+Iran,Germany,0,2,0,2,0,100,0,Iran,Germany
+Iran,Ghana,0,0,2,2,100,0,0,Iran,Ghana
+Iran,Japan,5,4,2,11,18,36,45,Iran,Japan
+Iran,Mexico,0,3,0,3,0,100,0,Iran,Mexico
+Iran,Morocco,2,0,1,3,33,0,67,Iran,Morocco
+Iran,Netherlands,0,1,0,1,0,100,0,Iran,Netherlands
+Iran,Poland,0,2,0,2,0,100,0,Iran,Poland
+Iran,Portugal,1,2,0,3,0,67,33,Iran,Portugal
+Iran,Qatar,4,3,15,22,68,14,18,Iran,Qatar
+Iran,Saudi Arabia,6,4,4,14,29,29,43,Iran,Saudi_Arabia
+Iran,Senegal,2,0,0,2,0,0,100,Iran,Senegal
+Iran,Serbia,0,1,0,1,0,100,0,Iran,Serbia
+Iran,South Korea,9,8,10,27,37,30,33,Iran,South_Korea
+Iran,Spain,0,1,0,1,0,100,0,Iran,Spain
+Iran,Tunisia,1,1,0,2,0,50,50,Iran,Tunisia
+Iran,United States,1,0,1,2,50,0,50,Iran,United_States
+Iran,Uruguay,1,0,1,2,50,0,50,Iran,Uruguay
+Iran,Wales,0,1,0,1,0,100,0,Iran,Wales
+Japan,Argentina,0,6,1,7,14,86,0,Japan,Argentina
+Japan,Australia,9,6,11,26,42,23,35,Japan,Australia
+Japan,Belgium,2,2,2,6,33,33,33,Japan,Belgium
+Japan,Brazil,2,11,0,13,0,85,15,Japan,Brazil
+Japan,Cameroon,2,0,3,5,60,0,40,Japan,Cameroon
+Japan,Canada,0,0,2,2,100,0,0,Japan,Canada
+Japan,Costa Rica,1,0,3,4,75,0,25,Japan,Costa_Rica
+Japan,Croatia,1,1,1,3,33,33,33,Japan,Croatia
+Japan,Denmark,0,1,1,2,50,50,0,Japan,Denmark
+Japan,Ecuador,2,0,2,4,50,0,50,Japan,Ecuador
+Japan,England,1,2,0,3,0,67,33,Japan,England
+Japan,France,1,4,1,6,17,67,17,Japan,France
+Japan,Germany,1,1,0,2,0,50,50,Japan,Germany
+Japan,Ghana,0,2,5,7,71,29,0,Japan,Ghana
+Japan,Iran,5,2,4,11,36,18,45,Japan,Iran
+Japan,Mexico,0,6,1,7,14,86,0,Japan,Mexico
+Japan,Netherlands,1,2,0,3,0,67,33,Japan,Netherlands
+Japan,Poland,0,5,2,7,29,71,0,Japan,Poland
+Japan,Qatar,3,2,2,7,29,29,43,Japan,Qatar
+Japan,Saudi Arabia,1,4,10,15,67,27,7,Japan,Saudi_Arabia
+Japan,Senegal,2,2,0,4,0,50,50,Japan,Senegal
+Japan,Serbia,0,4,4,8,50,50,0,Japan,Serbia
+Japan,South Korea,21,33,12,66,18,50,32,Japan,South_Korea
+Japan,Spain,0,1,0,1,0,100,0,Japan,Spain
+Japan,Switzerland,1,1,1,3,33,33,33,Japan,Switzerland
+Japan,Tunisia,0,1,4,5,80,20,0,Japan,Tunisia
+Japan,United States,0,1,2,3,67,33,0,Japan,United_States
+Japan,Uruguay,2,4,2,8,25,50,25,Japan,Uruguay
+Japan,Wales,0,1,0,1,0,100,0,Japan,Wales
+Mexico,Argentina,12,15,4,31,13,48,39,Mexico,Argentina
+Mexico,Australia,2,2,0,4,0,50,50,Mexico,Australia
+Mexico,Belgium,2,2,3,7,43,29,29,Mexico,Belgium
+Mexico,Brazil,7,24,10,41,24,59,17,Mexico,Brazil
+Mexico,Cameroon,0,0,2,2,100,0,0,Mexico,Cameroon
+Mexico,Canada,8,4,21,33,64,12,24,Mexico,Canada
+Mexico,Costa Rica,19,6,28,53,53,11,36,Mexico,Costa_Rica
+Mexico,Croatia,0,4,2,6,33,67,0,Mexico,Croatia
+Mexico,Denmark,2,2,1,5,20,40,40,Mexico,Denmark
+Mexico,Ecuador,6,4,14,24,58,17,25,Mexico,Ecuador
+Mexico,England,1,7,2,10,20,70,10,Mexico,England
+Mexico,France,1,5,1,7,14,71,14,Mexico,France
+Mexico,Germany,5,5,2,12,17,42,42,Mexico,Germany
+Mexico,Ghana,0,0,2,2,100,0,0,Mexico,Ghana
+Mexico,Iran,0,0,3,3,100,0,0,Mexico,Iran
+Mexico,Japan,0,1,6,7,86,14,0,Mexico,Japan
+Mexico,Netherlands,1,4,4,9,44,44,11,Mexico,Netherlands
+Mexico,Poland,3,3,3,9,33,33,33,Mexico,Poland
+Mexico,Portugal,2,3,0,5,0,60,40,Mexico,Portugal
+Mexico,Saudi Arabia,1,0,4,5,80,0,20,Mexico,Saudi_Arabia
+Mexico,Senegal,0,0,1,1,100,0,0,Mexico,Senegal
+Mexico,Serbia,1,2,1,4,25,50,25,Mexico,Serbia
+Mexico,South Korea,2,3,8,13,62,23,15,Mexico,South_Korea
+Mexico,Spain,3,3,0,6,0,50,50,Mexico,Spain
+Mexico,Switzerland,1,4,1,6,17,67,17,Mexico,Switzerland
+Mexico,Tunisia,0,1,0,1,0,100,0,Mexico,Tunisia
+Mexico,United States,15,21,35,71,49,30,21,Mexico,United_States
+Mexico,Uruguay,7,7,8,22,36,32,32,Mexico,Uruguay
+Mexico,Wales,2,1,2,5,40,20,40,Mexico,Wales
+Morocco,Argentina,0,3,0,3,0,100,0,Morocco,Argentina
+Morocco,Australia,0,1,0,1,0,100,0,Morocco,Australia
+Morocco,Belgium,0,2,1,3,33,67,0,Morocco,Belgium
+Morocco,Brazil,0,2,0,2,0,100,0,Morocco,Brazil
+Morocco,Cameroon,4,6,1,11,9,55,36,Morocco,Cameroon
+Morocco,Canada,1,0,2,3,67,0,33,Morocco,Canada
+Morocco,Croatia,1,0,0,1,0,0,100,Morocco,Croatia
+Morocco,England,1,1,0,2,0,50,50,Morocco,England
+Morocco,France,2,3,0,5,0,60,40,Morocco,France
+Morocco,Germany,0,4,0,4,0,100,0,Morocco,Germany
+Morocco,Ghana,3,2,5,10,50,20,30,Morocco,Ghana
+Morocco,Iran,2,1,0,3,0,33,67,Morocco,Iran
+Morocco,Netherlands,0,2,1,3,33,67,0,Morocco,Netherlands
+Morocco,Poland,2,1,1,4,25,25,50,Morocco,Poland
+Morocco,Portugal,0,1,1,2,50,50,0,Morocco,Portugal
+Morocco,Qatar,1,0,1,2,50,0,50,Morocco,Qatar
+Morocco,Saudi Arabia,1,3,3,7,43,43,14,Morocco,Saudi_Arabia
+Morocco,Senegal,5,6,18,29,62,21,17,Morocco,Senegal
+Morocco,Serbia,0,0,1,1,100,0,0,Morocco,Serbia
+Morocco,South Korea,3,0,1,4,25,0,75,Morocco,South_Korea
+Morocco,Spain,1,2,0,3,0,67,33,Morocco,Spain
+Morocco,Switzerland,0,0,2,2,100,0,0,Morocco,Switzerland
+Morocco,Tunisia,22,6,10,38,26,16,58,Morocco,Tunisia
+Morocco,United States,0,1,3,4,75,25,0,Morocco,United_States
+Morocco,Uruguay,0,1,0,1,0,100,0,Morocco,Uruguay
+Netherlands,Argentina,4,1,4,9,44,11,44,Netherlands,Argentina
+Netherlands,Australia,2,1,1,4,25,25,50,Netherlands,Australia
+Netherlands,Belgium,31,40,55,126,44,32,25,Netherlands,Belgium
+Netherlands,Brazil,5,3,4,12,33,25,42,Netherlands,Brazil
+Netherlands,Cameroon,1,0,2,3,67,0,33,Netherlands,Cameroon
+Netherlands,Canada,0,0,1,1,100,0,0,Netherlands,Canada
+Netherlands,Costa Rica,1,0,0,1,0,0,100,Netherlands,Costa_Rica
+Netherlands,Croatia,0,1,1,2,50,50,0,Netherlands,Croatia
+Netherlands,Denmark,10,8,13,31,42,26,32,Netherlands,Denmark
+Netherlands,Ecuador,1,0,1,2,50,0,50,Netherlands,Ecuador
+Netherlands,England,9,6,7,22,32,27,41,Netherlands,England
+Netherlands,France,4,13,11,28,39,46,14,Netherlands,France
+Netherlands,Germany,17,16,12,45,27,36,38,Netherlands,Germany
+Netherlands,Ghana,1,0,2,3,67,0,33,Netherlands,Ghana
+Netherlands,Iran,0,0,1,1,100,0,0,Netherlands,Iran
+Netherlands,Japan,1,0,2,3,67,0,33,Netherlands,Japan
+Netherlands,Mexico,1,4,4,9,44,44,11,Netherlands,Mexico
+Netherlands,Morocco,0,1,2,3,67,33,0,Netherlands,Morocco
+Netherlands,Poland,7,3,8,18,44,17,39,Netherlands,Poland
+Netherlands,Portugal,4,8,2,14,14,57,29,Netherlands,Portugal
+Netherlands,Saudi Arabia,0,0,1,1,100,0,0,Netherlands,Saudi_Arabia
+Netherlands,Serbia,0,0,3,3,100,0,0,Netherlands,Serbia
+Netherlands,South Korea,0,0,2,2,100,0,0,Netherlands,South_Korea
+Netherlands,Spain,2,4,6,12,50,33,17,Netherlands,Spain
+Netherlands,Switzerland,3,15,14,32,44,47,9,Netherlands,Switzerland
+Netherlands,Tunisia,2,0,1,3,33,0,67,Netherlands,Tunisia
+Netherlands,United States,0,1,4,5,80,20,0,Netherlands,United_States
+Netherlands,Uruguay,1,1,2,4,50,25,25,Netherlands,Uruguay
+Netherlands,Wales,0,0,10,10,100,0,0,Netherlands,Wales
+Poland,Argentina,2,6,3,11,27,55,18,Poland,Argentina
+Poland,Australia,0,1,0,1,0,100,0,Poland,Australia
+Poland,Belgium,6,8,7,21,33,38,29,Poland,Belgium
+Poland,Brazil,2,9,1,12,8,75,17,Poland,Brazil
+Poland,Cameroon,2,1,0,3,0,33,67,Poland,Cameroon
+Poland,Canada,0,0,6,6,100,0,0,Poland,Canada
+Poland,Costa Rica,0,0,2,2,100,0,0,Poland,Costa_Rica
+Poland,Croatia,1,3,1,5,20,60,20,Poland,Croatia
+Poland,Denmark,1,10,8,19,42,53,5,Poland,Denmark
+Poland,Ecuador,1,1,1,3,33,33,33,Poland,Ecuador
+Poland,England,8,12,1,21,5,57,38,Poland,England
+Poland,France,5,8,3,16,19,50,31,Poland,France
+Poland,Germany,7,13,1,21,5,62,33,Poland,Germany
+Poland,Iran,0,0,2,2,100,0,0,Poland,Iran
+Poland,Japan,0,2,5,7,71,29,0,Poland,Japan
+Poland,Mexico,3,3,3,9,33,33,33,Poland,Mexico
+Poland,Morocco,2,1,1,4,25,25,50,Poland,Morocco
+Poland,Netherlands,7,8,3,18,17,44,39,Poland,Netherlands
+Poland,Portugal,5,5,3,13,23,38,38,Poland,Portugal
+Poland,Saudi Arabia,0,0,4,4,100,0,0,Poland,Saudi_Arabia
+Poland,Senegal,0,1,0,1,0,100,0,Poland,Senegal
+Poland,Serbia,3,0,4,7,57,0,43,Poland,Serbia
+Poland,South Korea,1,1,1,3,33,33,33,Poland,South_Korea
+Poland,Spain,2,8,1,11,9,73,18,Poland,Spain
+Poland,Switzerland,5,1,4,10,40,10,50,Poland,Switzerland
+Poland,Tunisia,0,1,2,3,67,33,0,Poland,Tunisia
+Poland,United States,3,7,6,16,38,44,19,Poland,United_States
+Poland,Uruguay,2,1,1,4,25,25,50,Poland,Uruguay
+Poland,Wales,2,1,6,9,67,11,22,Poland,Wales
+Portugal,Argentina,1,5,2,8,25,62,12,Portugal,Argentina
+Portugal,Belgium,7,6,6,19,32,32,37,Portugal,Belgium
+Portugal,Brazil,3,14,4,21,19,67,14,Portugal,Brazil
+Portugal,Cameroon,0,0,2,2,100,0,0,Portugal,Cameroon
+Portugal,Canada,1,0,1,2,50,0,50,Portugal,Canada
+Portugal,Croatia,1,0,6,7,86,0,14,Portugal,Croatia
+Portugal,Denmark,2,3,10,15,67,20,13,Portugal,Denmark
+Portugal,Ecuador,0,1,1,2,50,50,0,Portugal,Ecuador
+Portugal,England,10,10,3,23,13,43,43,Portugal,England
+Portugal,France,3,17,6,26,23,65,12,Portugal,France
+Portugal,Germany,5,11,3,19,16,58,26,Portugal,Germany
+Portugal,Ghana,0,0,1,1,100,0,0,Portugal,Ghana
+Portugal,Iran,1,0,2,3,67,0,33,Portugal,Iran
+Portugal,Mexico,2,0,3,5,60,0,40,Portugal,Mexico
+Portugal,Morocco,0,1,1,2,50,50,0,Portugal,Morocco
+Portugal,Netherlands,4,2,8,14,57,14,29,Portugal,Netherlands
+Portugal,Poland,5,3,5,13,38,23,38,Portugal,Poland
+Portugal,Qatar,0,0,2,2,100,0,0,Portugal,Qatar
+Portugal,Saudi Arabia,0,0,2,2,100,0,0,Portugal,Saudi_Arabia
+Portugal,Serbia,4,1,3,8,38,12,50,Portugal,Serbia
+Portugal,South Korea,0,1,0,1,0,100,0,Portugal,South_Korea
+Portugal,Spain,17,15,8,40,20,38,42,Portugal,Spain
+Portugal,Switzerland,5,11,9,25,36,44,20,Portugal,Switzerland
+Portugal,Tunisia,2,0,0,2,0,0,100,Portugal,Tunisia
+Portugal,United States,3,2,2,7,29,29,43,Portugal,United_States
+Portugal,Uruguay,1,1,1,3,33,33,33,Portugal,Uruguay
+Portugal,Wales,0,1,3,4,75,25,0,Portugal,Wales
+Qatar,Argentina,0,2,0,2,0,100,0,Qatar,Argentina
+Qatar,Australia,1,3,1,5,20,60,20,Qatar,Australia
+Qatar,Belgium,0,1,0,1,0,100,0,Qatar,Belgium
+Qatar,Brazil,0,1,0,1,0,100,0,Qatar,Brazil
+Qatar,Canada,0,1,0,1,0,100,0,Qatar,Canada
+Qatar,Costa Rica,1,0,0,1,0,0,100,Qatar,Costa_Rica
+Qatar,Croatia,0,1,0,1,0,100,0,Qatar,Croatia
+Qatar,Ecuador,1,1,1,3,33,33,33,Qatar,Ecuador
+Qatar,Ghana,0,1,0,1,0,100,0,Qatar,Ghana
+Qatar,Iran,4,15,3,22,14,68,18,Qatar,Iran
+Qatar,Japan,3,2,2,7,29,29,43,Qatar,Japan
+Qatar,Morocco,1,1,0,2,0,50,50,Qatar,Morocco
+Qatar,Portugal,0,2,0,2,0,100,0,Qatar,Portugal
+Qatar,Saudi Arabia,14,17,8,39,21,44,36,Qatar,Saudi_Arabia
+Qatar,Serbia,0,2,1,3,33,67,0,Qatar,Serbia
+Qatar,South Korea,1,6,3,10,30,60,10,Qatar,South_Korea
+Qatar,Switzerland,0,0,1,1,100,0,0,Qatar,Switzerland
+Qatar,Tunisia,0,1,2,3,67,33,0,Qatar,Tunisia
+Qatar,United States,0,1,0,1,0,100,0,Qatar,United_States
+Qatar,Wales,0,1,0,1,0,100,0,Qatar,Wales
+Saudi Arabia,Argentina,2,2,0,4,0,50,50,Saudi_Arabia,Argentina
+Saudi Arabia,Australia,3,5,2,10,20,50,30,Saudi_Arabia,Australia
+Saudi Arabia,Belgium,0,2,1,3,33,67,0,Saudi_Arabia,Belgium
+Saudi Arabia,Brazil,0,5,0,5,0,100,0,Saudi_Arabia,Brazil
+Saudi Arabia,Cameroon,1,2,2,5,40,40,20,Saudi_Arabia,Cameroon
+Saudi Arabia,Canada,0,0,1,1,100,0,0,Saudi_Arabia,Canada
+Saudi Arabia,Costa Rica,0,3,1,4,25,75,0,Saudi_Arabia,Costa_Rica
+Saudi Arabia,Denmark,0,3,0,3,0,100,0,Saudi_Arabia,Denmark
+Saudi Arabia,Ecuador,1,0,0,1,0,0,100,Saudi_Arabia,Ecuador
+Saudi Arabia,England,2,0,0,2,0,0,100,Saudi_Arabia,England
+Saudi Arabia,France,0,1,0,1,0,100,0,Saudi_Arabia,France
+Saudi Arabia,Germany,0,3,0,3,0,100,0,Saudi_Arabia,Germany
+Saudi Arabia,Ghana,2,2,1,5,20,40,40,Saudi_Arabia,Ghana
+Saudi Arabia,Iran,6,4,4,14,29,29,43,Saudi_Arabia,Iran
+Saudi Arabia,Japan,1,10,4,15,27,67,7,Saudi_Arabia,Japan
+Saudi Arabia,Mexico,1,4,0,5,0,80,20,Saudi_Arabia,Mexico
+Saudi Arabia,Morocco,1,3,3,7,43,43,14,Saudi_Arabia,Morocco
+Saudi Arabia,Netherlands,0,1,0,1,0,100,0,Saudi_Arabia,Netherlands
+Saudi Arabia,Poland,0,4,0,4,0,100,0,Saudi_Arabia,Poland
+Saudi Arabia,Portugal,0,2,0,2,0,100,0,Saudi_Arabia,Portugal
+Saudi Arabia,Qatar,14,8,17,39,44,21,36,Saudi_Arabia,Qatar
+Saudi Arabia,Senegal,0,0,2,2,100,0,0,Saudi_Arabia,Senegal
+Saudi Arabia,South Korea,8,4,4,16,25,25,50,Saudi_Arabia,South_Korea
+Saudi Arabia,Spain,0,3,0,3,0,100,0,Saudi_Arabia,Spain
+Saudi Arabia,Tunisia,1,4,3,8,38,50,12,Saudi_Arabia,Tunisia
+Saudi Arabia,United States,2,2,2,6,33,33,33,Saudi_Arabia,United_States
+Saudi Arabia,Uruguay,1,1,1,3,33,33,33,Saudi_Arabia,Uruguay
+Saudi Arabia,Wales,0,1,0,1,0,100,0,Saudi_Arabia,Wales
+Senegal,Brazil,1,0,0,1,0,0,100,Senegal,Brazil
+Senegal,Cameroon,5,3,5,13,38,23,38,Senegal,Cameroon
+Senegal,Croatia,0,1,0,1,0,100,0,Senegal,Croatia
+Senegal,Denmark,1,2,0,3,0,67,33,Senegal,Denmark
+Senegal,Ecuador,0,0,2,2,100,0,0,Senegal,Ecuador
+Senegal,France,0,0,1,1,100,0,0,Senegal,France
+Senegal,Ghana,5,3,4,12,33,25,42,Senegal,Ghana
+Senegal,Iran,2,0,0,2,0,0,100,Senegal,Iran
+Senegal,Japan,2,0,2,4,50,0,50,Senegal,Japan
+Senegal,Mexico,0,1,0,1,0,100,0,Senegal,Mexico
+Senegal,Morocco,5,18,6,29,21,62,17,Senegal,Morocco
+Senegal,Poland,0,0,1,1,100,0,0,Senegal,Poland
+Senegal,Saudi Arabia,0,2,0,2,0,100,0,Senegal,Saudi_Arabia
+Senegal,South Korea,1,1,3,5,60,20,20,Senegal,South_Korea
+Senegal,Tunisia,6,9,4,19,21,47,32,Senegal,Tunisia
+Senegal,Uruguay,1,0,0,1,0,0,100,Senegal,Uruguay
+Serbia,Argentina,0,3,1,4,25,75,0,Serbia,Argentina
+Serbia,Australia,1,1,0,2,0,50,50,Serbia,Australia
+Serbia,Belgium,1,3,2,6,33,50,17,Serbia,Belgium
+Serbia,Brazil,1,4,0,5,0,80,20,Serbia,Brazil
+Serbia,Cameroon,0,0,1,1,100,0,0,Serbia,Cameroon
+Serbia,Costa Rica,0,0,1,1,100,0,0,Serbia,Costa_Rica
+Serbia,Croatia,3,2,0,5,0,40,60,Serbia,Croatia
+Serbia,Denmark,0,3,0,3,0,100,0,Serbia,Denmark
+Serbia,Ecuador,0,1,0,1,0,100,0,Serbia,Ecuador
+Serbia,England,0,1,0,1,0,100,0,Serbia,England
+Serbia,France,2,4,0,6,0,67,33,Serbia,France
+Serbia,Germany,2,2,1,5,20,40,40,Serbia,Germany
+Serbia,Ghana,0,1,1,2,50,50,0,Serbia,Ghana
+Serbia,Iran,0,0,1,1,100,0,0,Serbia,Iran
+Serbia,Japan,0,4,4,8,50,50,0,Serbia,Japan
+Serbia,Mexico,1,1,2,4,50,25,25,Serbia,Mexico
+Serbia,Morocco,0,1,0,1,0,100,0,Serbia,Morocco
+Serbia,Netherlands,0,3,0,3,0,100,0,Serbia,Netherlands
+Serbia,Poland,3,4,0,7,0,57,43,Serbia,Poland
+Serbia,Portugal,4,3,1,8,12,38,50,Serbia,Portugal
+Serbia,Qatar,0,1,2,3,67,33,0,Serbia,Qatar
+Serbia,South Korea,4,2,3,9,33,22,44,Serbia,South_Korea
+Serbia,Spain,3,3,0,6,0,50,50,Serbia,Spain
+Serbia,Switzerland,3,1,1,5,20,20,60,Serbia,Switzerland
+Serbia,Tunisia,0,0,2,2,100,0,0,Serbia,Tunisia
+Serbia,United States,1,0,1,2,50,0,50,Serbia,United_States
+Serbia,Uruguay,1,0,1,2,50,0,50,Serbia,Uruguay
+Serbia,Wales,2,0,4,6,67,0,33,Serbia,Wales
+South Korea,Argentina,0,3,0,3,0,100,0,South_Korea,Argentina
+South Korea,Australia,11,9,8,28,29,32,39,South_Korea,Australia
+South Korea,Belgium,1,3,0,4,0,75,25,South_Korea,Belgium
+South Korea,Brazil,0,6,1,7,14,86,0,South_Korea,Brazil
+South Korea,Cameroon,2,0,3,5,60,0,40,South_Korea,Cameroon
+South Korea,Canada,1,2,2,5,40,40,20,South_Korea,Canada
+South Korea,Costa Rica,3,3,4,10,40,30,30,South_Korea,Costa_Rica
+South Korea,Croatia,2,3,2,7,29,43,29,South_Korea,Croatia
+South Korea,Denmark,1,0,0,1,0,0,100,South_Korea,Denmark
+South Korea,Ecuador,0,1,1,2,50,50,0,South_Korea,Ecuador
+South Korea,England,1,0,0,1,0,0,100,South_Korea,England
+South Korea,France,1,2,0,3,0,67,33,South_Korea,France
+South Korea,Germany,0,2,2,4,50,50,0,South_Korea,Germany
+South Korea,Ghana,0,3,3,6,50,50,0,South_Korea,Ghana
+South Korea,Iran,9,10,8,27,30,37,33,South_Korea,Iran
+South Korea,Japan,21,12,33,66,50,18,32,South_Korea,Japan
+South Korea,Mexico,2,8,3,13,23,62,15,South_Korea,Mexico
+South Korea,Morocco,3,1,0,4,0,25,75,South_Korea,Morocco
+South Korea,Netherlands,0,2,0,2,0,100,0,South_Korea,Netherlands
+South Korea,Poland,1,1,1,3,33,33,33,South_Korea,Poland
+South Korea,Portugal,0,0,1,1,100,0,0,South_Korea,Portugal
+South Korea,Qatar,1,3,6,10,60,30,10,South_Korea,Qatar
+South Korea,Saudi Arabia,8,4,4,16,25,25,50,South_Korea,Saudi_Arabia
+South Korea,Senegal,1,3,1,5,20,60,20,South_Korea,Senegal
+South Korea,Serbia,4,3,2,9,22,33,44,South_Korea,Serbia
+South Korea,Spain,2,4,0,6,0,67,33,South_Korea,Spain
+South Korea,Switzerland,0,1,1,2,50,50,0,South_Korea,Switzerland
+South Korea,Tunisia,1,1,0,2,0,50,50,South_Korea,Tunisia
+South Korea,United States,2,3,4,9,44,33,22,South_Korea,United_States
+South Korea,Uruguay,1,6,1,8,12,75,12,South_Korea,Uruguay
+Spain,Argentina,2,6,6,14,43,43,14,Spain,Argentina
+Spain,Australia,0,0,1,1,100,0,0,Spain,Australia
+Spain,Belgium,6,4,11,21,52,19,29,Spain,Belgium
+Spain,Brazil,2,5,2,9,22,56,22,Spain,Brazil
+Spain,Canada,0,0,2,2,100,0,0,Spain,Canada
+Spain,Costa Rica,1,0,2,3,67,0,33,Spain,Costa_Rica
+Spain,Croatia,1,3,5,9,56,33,11,Spain,Croatia
+Spain,Denmark,3,2,11,16,69,12,19,Spain,Denmark
+Spain,Ecuador,0,0,2,2,100,0,0,Spain,Ecuador
+Spain,England,4,13,10,27,37,48,15,Spain,England
+Spain,France,7,13,16,36,44,36,19,Spain,France
+Spain,Germany,8,9,8,25,32,36,32,Spain,Germany
+Spain,Iran,0,0,1,1,100,0,0,Spain,Iran
+Spain,Japan,0,0,1,1,100,0,0,Spain,Japan
+Spain,Mexico,3,0,3,6,50,0,50,Spain,Mexico
+Spain,Morocco,1,0,2,3,67,0,33,Spain,Morocco
+Spain,Netherlands,2,6,4,12,33,50,17,Spain,Netherlands
+Spain,Poland,2,1,8,11,73,9,18,Spain,Poland
+Spain,Portugal,17,8,15,40,38,20,42,Spain,Portugal
+Spain,Saudi Arabia,0,0,3,3,100,0,0,Spain,Saudi_Arabia
+Spain,Serbia,3,0,3,6,50,0,50,Spain,Serbia
+Spain,South Korea,2,0,4,6,67,0,33,Spain,South_Korea
+Spain,Switzerland,6,1,17,24,71,4,25,Spain,Switzerland
+Spain,Tunisia,0,0,2,2,100,0,0,Spain,Tunisia
+Spain,United States,0,1,4,5,80,20,0,Spain,United_States
+Spain,Uruguay,5,0,5,10,50,0,50,Spain,Uruguay
+Spain,Wales,2,1,3,6,50,17,33,Spain,Wales
+Switzerland,Argentina,2,5,0,7,0,71,29,Switzerland,Argentina
+Switzerland,Australia,1,0,0,1,0,0,100,Switzerland,Australia
+Switzerland,Belgium,6,15,9,30,30,50,20,Switzerland,Belgium
+Switzerland,Brazil,4,3,2,9,22,33,44,Switzerland,Brazil
+Switzerland,Canada,0,1,0,1,0,100,0,Switzerland,Canada
+Switzerland,Costa Rica,1,1,1,3,33,33,33,Switzerland,Costa_Rica
+Switzerland,Croatia,2,3,2,7,29,43,29,Switzerland,Croatia
+Switzerland,Denmark,6,4,2,12,17,33,50,Switzerland,Denmark
+Switzerland,Ecuador,0,0,1,1,100,0,0,Switzerland,Ecuador
+Switzerland,England,6,19,4,29,14,66,21,Switzerland,England
+Switzerland,France,11,16,12,39,31,41,28,Switzerland,France
+Switzerland,Germany,8,35,9,52,17,67,15,Switzerland,Germany
+Switzerland,Japan,1,1,1,3,33,33,33,Switzerland,Japan
+Switzerland,Mexico,1,1,4,6,67,17,17,Switzerland,Mexico
+Switzerland,Morocco,0,2,0,2,0,100,0,Switzerland,Morocco
+Switzerland,Netherlands,3,14,15,32,47,44,9,Switzerland,Netherlands
+Switzerland,Poland,5,4,1,10,10,40,50,Switzerland,Poland
+Switzerland,Portugal,5,9,11,25,44,36,20,Switzerland,Portugal
+Switzerland,Qatar,0,1,0,1,0,100,0,Switzerland,Qatar
+Switzerland,Serbia,3,1,1,5,20,20,60,Switzerland,Serbia
+Switzerland,South Korea,0,1,1,2,50,50,0,Switzerland,South_Korea
+Switzerland,Spain,6,17,1,24,4,71,25,Switzerland,Spain
+Switzerland,Tunisia,1,0,2,3,67,0,33,Switzerland,Tunisia
+Switzerland,United States,4,1,4,9,44,11,44,Switzerland,United_States
+Switzerland,Uruguay,1,2,0,3,0,67,33,Switzerland,Uruguay
+Switzerland,Wales,1,2,5,8,62,25,12,Switzerland,Wales
+Tunisia,Argentina,0,1,0,1,0,100,0,Tunisia,Argentina
+Tunisia,Australia,0,0,1,1,100,0,0,Tunisia,Australia
+Tunisia,Belgium,1,2,1,4,25,50,25,Tunisia,Belgium
+Tunisia,Brazil,0,2,0,2,0,100,0,Tunisia,Brazil
+Tunisia,Cameroon,7,9,3,19,16,47,37,Tunisia,Cameroon
+Tunisia,Canada,0,0,1,1,100,0,0,Tunisia,Canada
+Tunisia,Costa Rica,0,0,1,1,100,0,0,Tunisia,Costa_Rica
+Tunisia,Croatia,0,0,1,1,100,0,0,Tunisia,Croatia
+Tunisia,Denmark,0,1,0,1,0,100,0,Tunisia,Denmark
+Tunisia,England,1,2,0,3,0,67,33,Tunisia,England
+Tunisia,France,2,2,0,4,0,50,50,Tunisia,France
+Tunisia,Germany,2,1,0,3,0,33,67,Tunisia,Germany
+Tunisia,Ghana,5,9,3,17,18,53,29,Tunisia,Ghana
+Tunisia,Iran,1,0,1,2,50,0,50,Tunisia,Iran
+Tunisia,Japan,0,4,1,5,20,80,0,Tunisia,Japan
+Tunisia,Mexico,0,0,1,1,100,0,0,Tunisia,Mexico
+Tunisia,Morocco,22,10,6,38,16,26,58,Tunisia,Morocco
+Tunisia,Netherlands,2,1,0,3,0,33,67,Tunisia,Netherlands
+Tunisia,Poland,0,2,1,3,33,67,0,Tunisia,Poland
+Tunisia,Portugal,2,0,0,2,0,0,100,Tunisia,Portugal
+Tunisia,Qatar,0,2,1,3,33,67,0,Tunisia,Qatar
+Tunisia,Saudi Arabia,1,3,4,8,50,38,12,Tunisia,Saudi_Arabia
+Tunisia,Senegal,6,4,9,19,47,21,32,Tunisia,Senegal
+Tunisia,Serbia,0,2,0,2,0,100,0,Tunisia,Serbia
+Tunisia,South Korea,1,0,1,2,50,0,50,Tunisia,South_Korea
+Tunisia,Spain,0,2,0,2,0,100,0,Tunisia,Spain
+Tunisia,Switzerland,1,2,0,3,0,67,33,Tunisia,Switzerland
+Tunisia,United States,1,0,0,1,0,0,100,Tunisia,United_States
+Tunisia,Uruguay,1,0,0,1,0,0,100,Tunisia,Uruguay
+Tunisia,Wales,0,0,1,1,100,0,0,Tunisia,Wales
+United States,Argentina,2,6,2,10,20,60,20,United_States,Argentina
+United States,Australia,1,1,1,3,33,33,33,United_States,Australia
+United States,Belgium,0,5,1,6,17,83,0,United_States,Belgium
+United States,Brazil,0,17,1,18,6,94,0,United_States,Brazil
+United States,Cameroon,1,0,0,1,0,0,100,United_States,Cameroon
+United States,Canada,11,10,15,36,42,28,31,United_States,Canada
+United States,Costa Rica,6,16,19,41,46,39,15,United_States,Costa_Rica
+United States,Croatia,0,1,0,1,0,100,0,United_States,Croatia
+United States,Denmark,1,2,0,3,0,67,33,United_States,Denmark
+United States,Ecuador,4,5,4,13,31,38,31,United_States,Ecuador
+United States,England,1,8,2,11,18,73,9,United_States,England
+United States,France,1,3,0,4,0,75,25,United_States,France
+United States,Germany,0,7,4,11,36,64,0,United_States,Germany
+United States,Ghana,0,2,2,4,50,50,0,United_States,Ghana
+United States,Iran,1,1,0,2,0,50,50,United_States,Iran
+United States,Japan,0,2,1,3,33,67,0,United_States,Japan
+United States,Mexico,15,35,21,71,30,49,21,United_States,Mexico
+United States,Morocco,0,3,1,4,25,75,0,United_States,Morocco
+United States,Netherlands,0,4,1,5,20,80,0,United_States,Netherlands
+United States,Poland,3,6,7,16,44,38,19,United_States,Poland
+United States,Portugal,3,2,2,7,29,29,43,United_States,Portugal
+United States,Qatar,0,0,1,1,100,0,0,United_States,Qatar
+United States,Saudi Arabia,2,2,2,6,33,33,33,United_States,Saudi_Arabia
+United States,Serbia,1,1,0,2,0,50,50,United_States,Serbia
+United States,South Korea,2,4,3,9,33,44,22,United_States,South_Korea
+United States,Spain,0,4,1,5,20,80,0,United_States,Spain
+United States,Switzerland,4,4,1,9,11,44,44,United_States,Switzerland
+United States,Tunisia,1,0,0,1,0,0,100,United_States,Tunisia
+United States,Uruguay,4,1,2,7,29,14,57,United_States,Uruguay
+United States,Wales,1,0,1,2,50,0,50,United_States,Wales
+Uruguay,Argentina,43,84,52,179,29,47,24,Uruguay,Argentina
+Uruguay,Australia,0,3,4,7,57,43,0,Uruguay,Australia
+Uruguay,Belgium,0,2,0,2,0,100,0,Uruguay,Belgium
+Uruguay,Brazil,19,37,20,76,26,49,25,Uruguay,Brazil
+Uruguay,Canada,0,0,2,2,100,0,0,Uruguay,Canada
+Uruguay,Costa Rica,3,1,6,10,60,10,30,Uruguay,Costa_Rica
+Uruguay,Denmark,0,2,0,2,0,100,0,Uruguay,Denmark
+Uruguay,Ecuador,10,7,31,48,65,15,21,Uruguay,Ecuador
+Uruguay,England,3,3,5,11,45,27,27,Uruguay,England
+Uruguay,France,4,3,2,9,22,33,44,Uruguay,France
+Uruguay,Germany,2,8,0,10,0,80,20,Uruguay,Germany
+Uruguay,Ghana,1,0,0,1,0,0,100,Uruguay,Ghana
+Uruguay,Iran,1,1,0,2,0,50,50,Uruguay,Iran
+Uruguay,Japan,2,2,4,8,50,25,25,Uruguay,Japan
+Uruguay,Mexico,7,8,7,22,32,36,32,Uruguay,Mexico
+Uruguay,Morocco,0,0,1,1,100,0,0,Uruguay,Morocco
+Uruguay,Netherlands,1,2,1,4,25,50,25,Uruguay,Netherlands
+Uruguay,Poland,2,1,1,4,25,25,50,Uruguay,Poland
+Uruguay,Portugal,1,1,1,3,33,33,33,Uruguay,Portugal
+Uruguay,Saudi Arabia,1,1,1,3,33,33,33,Uruguay,Saudi_Arabia
+Uruguay,Senegal,1,0,0,1,0,0,100,Uruguay,Senegal
+Uruguay,Serbia,1,1,0,2,0,50,50,Uruguay,Serbia
+Uruguay,South Korea,1,1,6,8,75,12,12,Uruguay,South_Korea
+Uruguay,Spain,5,5,0,10,0,50,50,Uruguay,Spain
+Uruguay,Switzerland,1,0,2,3,67,0,33,Uruguay,Switzerland
+Uruguay,Tunisia,1,0,0,1,0,0,100,Uruguay,Tunisia
+Uruguay,United States,4,2,1,7,14,29,57,Uruguay,United_States
+Uruguay,Wales,1,0,1,2,50,0,50,Uruguay,Wales
+Wales,Argentina,1,1,0,2,0,50,50,Wales,Argentina
+Wales,Australia,0,1,0,1,0,100,0,Wales,Australia
+Wales,Belgium,5,6,5,16,31,38,31,Wales,Belgium
+Wales,Brazil,1,8,1,10,10,80,10,Wales,Brazil
+Wales,Canada,0,1,2,3,67,33,0,Wales,Canada
+Wales,Costa Rica,0,1,1,2,50,50,0,Wales,Costa_Rica
+Wales,Croatia,2,4,0,6,0,67,33,Wales,Croatia
+Wales,Denmark,0,7,4,11,36,64,0,Wales,Denmark
+Wales,England,19,51,13,83,16,61,23,Wales,England
+Wales,France,1,4,1,6,17,67,17,Wales,France
+Wales,Germany,6,9,2,17,12,53,35,Wales,Germany
+Wales,Iran,0,0,1,1,100,0,0,Wales,Iran
+Wales,Japan,0,0,1,1,100,0,0,Wales,Japan
+Wales,Mexico,2,2,1,5,20,40,40,Wales,Mexico
+Wales,Netherlands,0,10,0,10,0,100,0,Wales,Netherlands
+Wales,Poland,2,6,1,9,11,67,22,Wales,Poland
+Wales,Portugal,0,3,1,4,25,75,0,Wales,Portugal
+Wales,Qatar,0,0,1,1,100,0,0,Wales,Qatar
+Wales,Saudi Arabia,0,0,1,1,100,0,0,Wales,Saudi_Arabia
+Wales,Serbia,2,4,0,6,0,67,33,Wales,Serbia
+Wales,Spain,2,3,1,6,17,50,33,Wales,Spain
+Wales,Switzerland,1,5,2,8,25,62,12,Wales,Switzerland
+Wales,Tunisia,0,1,0,1,0,100,0,Wales,Tunisia
+Wales,United States,1,1,0,2,0,50,50,Wales,United_States
+Wales,Uruguay,1,1,0,2,0,50,50,Wales,Uruguay
