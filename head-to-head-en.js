@@ -172,23 +172,6 @@ function dataviz_head_en() {
         .domain([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])
         .range(["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]);
 
-    // Match Color Scale
-    const color_scale = d3
-        .scaleOrdinal()
-        .domain([
-            "Afghanistan",
-            "Australia",
-            "Bangladesh",
-            "England",
-            "India",
-            "Netherlands",
-            "New_Zealand",
-            "Pakistan",
-            "South_Africa",
-            "Sri_Lanka",
-        ])
-        .range(["#336699", "#FFC200", "#0A490A", "#6699CC", "#0066CC", "#FF009B", "#000000", "#339933", "#206006", "#003366"]);
-
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // 05. Shapes Creation ////////////////////////////////////////////////////////////////////////////////////////////
@@ -379,7 +362,7 @@ function dataviz_head_en() {
                 .attr("y", -260 - 15)
                 .attr("width", "30px")
                 .attr("height", "30px")
-                .attr("href", `flags/South_Africa.png`)
+                .attr("href", `flags/India.png`)
                 .style("opacity", 1);
 
             // right
@@ -399,7 +382,7 @@ function dataviz_head_en() {
                 .attr("y", -260 - 15)
                 .attr("width", "30px")
                 .attr("height", "30px")
-                .attr("href", `flags/England.png`)
+                .attr("href", `flags/Pakistan.png`)
                 .style("opacity", 1);
 
             // annotations
@@ -775,7 +758,7 @@ function dataviz_head_en() {
                 .attr("width", "40px")
                 .attr("height", "40px")
                 .style("opacity", 1)
-                .attr("href", "flags/South_Africa.png");
+                .attr("href", "flags/India.png");
 
             d3.select(this)
                 .append("image")
@@ -785,7 +768,7 @@ function dataviz_head_en() {
                 .attr("width", "40px")
                 .attr("height", "40px")
                 .style("opacity", 1)
-                .attr("href", "flags/England.png");
+                .attr("href", "flags/Pakistan.png");
         });
 
     // ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -975,7 +958,7 @@ function dataviz_head_en() {
                 .attr("width", "40px")
                 .attr("height", "40px")
                 .style("opacity", 1)
-                .attr("href", "flags/South_Africa.png");
+                .attr("href", "flags/India.png");
 
             d3.select(this)
                 .append("image")
@@ -985,7 +968,7 @@ function dataviz_head_en() {
                 .attr("width", "40px")
                 .attr("height", "40px")
                 .style("opacity", 1)
-                .attr("href", "flags/England.png");
+                .attr("href", "flags/Pakistan.png");
 
             // No result
             // total matches line
@@ -1126,10 +1109,10 @@ function dataviz_head_en() {
 
     d3.selectAll(`.match-circles-head-1, .match-circles-head-2`).raise();
     d3.selectAll(`.match-circles-head-1, .match-circles-head-2`).style("visibility", "hidden");
-    d3.selectAll(`.a_team_c_South_Africa.b_team_c_England`).style("visibility", "visible");
+    d3.selectAll(`.a_team_c_India.b_team_c_Pakistan`).style("visibility", "visible");
 
     connection_lines_head.style("visibility", "hidden");
-    d3.selectAll(`.a_team_l_South_Africa.b_team_l_England`).style("visibility", "visible");
+    d3.selectAll(`.a_team_l_India.b_team_l_Pakistan`).style("visibility", "visible");
 
     // Team selection functions
     function team_selection(team_x, team_y) {
@@ -1212,11 +1195,11 @@ function dataviz_head_en() {
             d3.select("#stats-team-a-flag").attr("href", `flags/${team_x}.png`);
             d3.select("#stats-team-b-flag").attr("href", `flags/${team_y}.png`);
 
-            d3.select("#id-head-team-stats-a").text("South Africa");
-            d3.select("#id-head-team-stats-b").text("England");
+            d3.select("#id-head-team-stats-a").text("India");
+            d3.select("#id-head-team-stats-b").text("Pakistan");
         }
     }
-    teams_stats_show_head("South_Africa", "England");
+    teams_stats_show_head("India", "Pakistan");
 
     /* When the user clicks on the button,
         toggle between hiding and showing the dropdown content */
