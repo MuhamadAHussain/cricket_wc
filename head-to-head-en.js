@@ -31,7 +31,7 @@ const vizboard_head_en = d3
     .classed("svg-vizboard", true)
     .attr("viewBox", `0 0 ${vizboardWidth_head_en} ${vizboardHeight_head_en}`);
 // .attr("preserveAspectRatio", "xMinYMin meet");
-// .style("border", "1px dashed lightgreen")
+// .style("border", "1px dashed light#320071")
 
 let svg_head_en = vizboard_head_en
     .append("g")
@@ -155,7 +155,7 @@ function dataviz_head_en() {
     const match_color_scale = d3
         .scaleOrdinal()
         .domain(["Winner", "Loser", "No result", "Tied"])
-        .range(["green", "#FF6600", "grey", "grey"]);
+        .range(["#320071", "#FF009B", "grey", "grey"]);
 
     // Match Result Scale
     const match_result_scale = d3.scaleSqrt().domain([0, 1]).range([2, 5]);
@@ -187,7 +187,7 @@ function dataviz_head_en() {
             "South_Africa",
             "Sri_Lanka",
         ])
-        .range(["#336699", "#FFC200", "#0A490A", "#6699CC", "#0066CC", "#FF6600", "#000000", "#339933", "#206006", "#003366"]);
+        .range(["#336699", "#FFC200", "#0A490A", "#6699CC", "#0066CC", "#FF009B", "#000000", "#339933", "#206006", "#003366"]);
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -479,7 +479,7 @@ function dataviz_head_en() {
                 .append("text")
                 .attr("x", 0)
                 .attr("y", -420)
-                // .style("fill", "grey")
+                .style("fill", "grey")
                 .style("font-size", "16px")
                 .style("font-weight", "500")
                 .style("text-align", "center")
@@ -490,7 +490,7 @@ function dataviz_head_en() {
                 .append("text")
                 .attr("x", 0)
                 .attr("y", -398)
-                // .style("fill", "grey")
+                .style("fill", "grey")
                 .style("font-size", "16px")
                 .style("font-weight", "500")
                 .style("text-align", "center")
@@ -509,7 +509,7 @@ function dataviz_head_en() {
                 .style("text-anchor", "middle")
                 .text("Match colour code");
 
-            const colors = ["green", "grey", "#FF6600"];
+            const colors = ["#320071", "grey", "#FF009B"];
 
             d3.select(this)
                 .selectAll("circle.annotation-circles")
@@ -696,42 +696,43 @@ function dataviz_head_en() {
                 .text("Team B");
 
             // result desc
-            d3.select(this)
-                .append("text")
-                .attr("y", -10)
-                .style("font-size", "20px")
-                .style("font-weight", "400")
-                .style("fill", "grey")
-                .text(" : ");
+            // d3.select(this)
+            //     .append("text")
+            //     .attr("y", -10)
+            //     .style("font-size", "20px")
+            //     .style("font-weight", "400")
+            //     .style("fill", "grey")
+            //     .text(" : ");
 
             // team a result
-            d3.select(this)
-                .append("text")
-                .attr("id", "id-result-a")
-                .attr("x", -10)
-                .attr("y", -10)
-                .style("font-size", "20px")
-                .style("font-weight", "400")
-                .style("text-align", "right")
-                .style("text-anchor", "end")
-                .style("fill", "grey")
-                .text("Score A");
+            // d3.select(this)
+            //     .append("text")
+            //     .attr("id", "id-result-a")
+            //     .attr("x", -10)
+            //     .attr("y", -10)
+            //     .style("font-size", "20px")
+            //     .style("font-weight", "400")
+            //     .style("text-align", "right")
+            //     .style("text-anchor", "end")
+            //     .style("fill", "grey")
+            //     .text("Score A");
 
             // team b result
-            d3.select(this)
-                .append("text")
-                .attr("id", "id-result-b")
-                .attr("x", 10)
-                .attr("y", -10)
-                .style("font-size", "20px")
-                .style("font-weight", "400")
-                .style("text-align", "left")
-                .style("text-anchor", "start")
-                .style("fill", "grey")
-                .text("Score B");
+            // d3.select(this)
+            //     .append("text")
+            //     .attr("id", "id-result-b")
+            //     .attr("x", 10)
+            //     .attr("y", -10)
+            //     .style("font-size", "20px")
+            //     .style("font-weight", "400")
+            //     .style("text-align", "left")
+            //     .style("text-anchor", "start")
+            //     .style("fill", "grey")
+            //     .text("Score B");
 
             // score
-            d3.select(this).append("text").attr("y", 40).style("fill", "grey").text("Score");
+            d3.select(this).append("text").attr("id", "id-result").attr("y", 0).style("fill", "grey").text("Score");
+            d3.select(this).append("text").attr("id", "id-result-txt").attr("y", 30).style("fill", "grey").text("Score");
 
             d3.select(this)
                 .append("text")
@@ -853,7 +854,7 @@ function dataviz_head_en() {
                 .attr("id", "id-head-wins-a")
                 .attr("x", -10)
                 .attr("y", 60)
-                .style("fill", "green")
+                .style("fill", "#320071")
                 .style("text-align", "right")
                 .style("text-anchor", "end")
                 .text("Scores");
@@ -863,7 +864,7 @@ function dataviz_head_en() {
                 .attr("id", "id-head-wins-b")
                 .attr("x", 10)
                 .attr("y", 60)
-                .style("fill", "#FF6600")
+                .style("fill", "#FF009B")
                 .style("text-align", "left")
                 .style("text-anchor", "start")
                 .text("Scores");
@@ -877,7 +878,7 @@ function dataviz_head_en() {
                 .attr("height", 15)
                 .attr("width", 40)
                 .attr("id", "rect-stats-wins")
-                .style("fill", "green")
+                .style("fill", "#320071")
                 .style("opacity", 0.8);
 
             d3.select(this)
@@ -887,7 +888,7 @@ function dataviz_head_en() {
                 .attr("height", 15)
                 .attr("width", 30)
                 .attr("id", "rect-stats-losses")
-                .style("fill", "#FF6600")
+                .style("fill", "#FF009B")
                 .style("opacity", 0.8);
 
             // sep line
@@ -917,7 +918,7 @@ function dataviz_head_en() {
                 .attr("x", -65)
                 .attr("y", 120)
                 .attr("id", "sep-stats-txt1")
-                .style("fill", "green")
+                .style("fill", "#320071")
                 .style("font-size", "16px")
                 .style("font-weight", "600")
                 .style("opacity", 1)
@@ -928,7 +929,7 @@ function dataviz_head_en() {
                 .attr("x", 65)
                 .attr("y", 120)
                 .attr("id", "sep-stats-txt2")
-                .style("fill", "#FF6600")
+                .style("fill", "#FF009B")
                 .style("font-size", "16px")
                 .style("font-weight", "600")
                 .style("opacity", 1)
@@ -987,6 +988,18 @@ function dataviz_head_en() {
                 .attr("height", "40px")
                 .style("opacity", 1)
                 .attr("href", "flags/England.png");
+
+            // No result
+            // total matches line
+            d3.select(this)
+                .append("text")
+                .attr("y", 152)
+                .attr("id", "no-result-matches")
+                .style("fill", "grey")
+                .style("font-size", "16px")
+                // .style("font-weight", "500")
+                .style("opacity", 1)
+                .text("No reusults");
         });
     // ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -1012,8 +1025,20 @@ function dataviz_head_en() {
         d3.select("#id-head-team-b").text(`${match_data.team_b_txt}`);
 
         d3.select("#id-head-score").text(`${match_data.result}`);
-        d3.select("#id-result-a").text(`${match_data.team_a_result}`);
-        d3.select("#id-result-b").text(`${match_data.team_b_result}`);
+        // d3.select("#id-result-a").text(`${match_data.team_a_result}`);
+        // d3.select("#id-result-b").text(`${match_data.team_b_result}`);
+        d3.select("#id-result").text(
+            `${
+                match_data.team_a_result == "Winner"
+                    ? match_data.team_a_txt
+                    : match_data.team_b_result == "Winner"
+                    ? match_data.team_b_txt
+                    : ""
+            }`
+        );
+        d3.select("#id-result-txt").text(
+            `${match_data.team_a_result == "No result" ? "No result" : match_data.team_b_result == "Tied" ? "No result" : "won by"}`
+        );
 
         d3.select("#id-head-country").text(`${month_scale(match_data.month)} ${match_data.day}, ${match_data.year}`);
         d3.select("#id-head-team-a-flag").attr("href", `flags/${match_data.team_a}.png`);
@@ -1145,23 +1170,28 @@ function dataviz_head_en() {
 
             d3.select("#id-head-wins-a")
                 .text(`${team_summary_head.winner} wins`)
-                .style("fill", `${team_summary_head.winning_perc > team_summary_head.losing_perc ? "green" : "#FF6600"}`);
+                .style("fill", `${team_summary_head.winning_perc > team_summary_head.losing_perc ? "#320071" : "#FF009B"}`);
 
             d3.select("#id-head-wins-b")
                 .text(`${team_summary_head.loser} wins`)
-                .style("fill", `${team_summary_head.winning_perc > team_summary_head.losing_perc ? "#FF6600" : "green"}`);
+                .style("fill", `${team_summary_head.winning_perc > team_summary_head.losing_perc ? "#FF009B" : "#320071"}`);
 
             d3.select("#t-stats-matches").text(`${team_summary_head.matches} matches`);
+            if (team_summary_head.draw == 1) {
+                d3.select("#no-result-matches").text(`${team_summary_head.draw} no result`);
+            } else {
+                d3.select("#no-result-matches").text(`${team_summary_head.draw} no results`);
+            }
 
             // stats rect and lines
             d3.select("#rect-stats-wins")
                 .attr("width", `${team_summary_head.winning_perc * 1.6}`)
-                .style("fill", `${team_summary_head.winning_perc > team_summary_head.losing_perc ? "green" : "#FF6600"}`);
+                .style("fill", `${team_summary_head.winning_perc > team_summary_head.losing_perc ? "#320071" : "#FF009B"}`);
 
             d3.select("#rect-stats-losses")
                 .attr("x", `${-80 + team_summary_head.winning_perc * 1.6}`)
                 .attr("width", `${team_summary_head.losing_perc * 1.6}`)
-                .style("fill", `${team_summary_head.winning_perc > team_summary_head.losing_perc ? "#FF6600" : "green"}`);
+                .style("fill", `${team_summary_head.winning_perc > team_summary_head.losing_perc ? "#FF009B" : "#320071"}`);
 
             d3.select("#sep-stats-line1")
                 .attr("x1", `${-80 + team_summary_head.winning_perc * 1.6}`)
@@ -1170,7 +1200,7 @@ function dataviz_head_en() {
             d3.select("#sep-stats-txt1")
                 // .attr("x", `${-80 + team_summary_head.winning_perc * 1.6}`)
                 .text(`${team_summary_head.winning_perc}%`)
-                .style("fill", `${team_summary_head.winning_perc > team_summary_head.losing_perc ? "green" : "#FF6600"}`);
+                .style("fill", `${team_summary_head.winning_perc > team_summary_head.losing_perc ? "#320071" : "#FF009B"}`);
 
             d3.select("#sep-stats-line2")
                 .attr("x1", `${-80 + team_summary_head.winning_perc * 1.6}`)
@@ -1179,7 +1209,7 @@ function dataviz_head_en() {
             d3.select("#sep-stats-txt2")
                 // .attr("x", `${-80 + team_summary_head.winning_perc * 1.6}`)
                 .text(`${team_summary_head.losing_perc}%`)
-                .style("fill", `${team_summary_head.winning_perc > team_summary_head.losing_perc ? "#FF6600" : "green"}`);
+                .style("fill", `${team_summary_head.winning_perc > team_summary_head.losing_perc ? "#FF009B" : "#320071"}`);
 
             d3.select("#stats-team-a-flag").attr("href", `flags/${team_x}.png`);
             d3.select("#stats-team-b-flag").attr("href", `flags/${team_y}.png`);
