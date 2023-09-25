@@ -393,7 +393,7 @@ function dataviz_head_en() {
                 .attr("y", -225)
                 .style("text-align", "center")
                 .style("text-anchor", "middle")
-                .text("1970-1979");
+                .text("1970-1980");
 
             d3.select(this)
                 .append("text")
@@ -402,7 +402,7 @@ function dataviz_head_en() {
                 .attr("y", -175)
                 .style("text-align", "center")
                 .style("text-anchor", "middle")
-                .text("1990-1999");
+                .text("1991-2000");
 
             d3.select(this)
                 .append("text")
@@ -411,7 +411,7 @@ function dataviz_head_en() {
                 .attr("y", -130)
                 .style("text-align", "center")
                 .style("text-anchor", "middle")
-                .text("2010-2019");
+                .text("2011-2020");
 
             d3.select(this)
                 .append("text")
@@ -420,7 +420,7 @@ function dataviz_head_en() {
                 .attr("y", -90)
                 .style("text-align", "center")
                 .style("text-anchor", "middle")
-                .text("2020-2023");
+                .text("2021-2023");
 
             d3.select(this)
                 .append("text")
@@ -429,7 +429,7 @@ function dataviz_head_en() {
                 .attr("y", -225)
                 .style("text-align", "center")
                 .style("text-anchor", "middle")
-                .text("1970-1979");
+                .text("1970-1980");
 
             d3.select(this)
                 .append("text")
@@ -438,7 +438,7 @@ function dataviz_head_en() {
                 .attr("y", -175)
                 .style("text-align", "center")
                 .style("text-anchor", "middle")
-                .text("1990-1999");
+                .text("1991-2000");
 
             d3.select(this)
                 .append("text")
@@ -447,7 +447,7 @@ function dataviz_head_en() {
                 .attr("y", -130)
                 .style("text-align", "center")
                 .style("text-anchor", "middle")
-                .text("2010-2019");
+                .text("2011-2020");
 
             d3.select(this)
                 .append("text")
@@ -456,7 +456,7 @@ function dataviz_head_en() {
                 .attr("y", -90)
                 .style("text-align", "center")
                 .style("text-anchor", "middle")
-                .text("2020-2023");
+                .text("2021-2023");
 
             d3.select(this)
                 .append("text")
